@@ -1,0 +1,14 @@
+/* -- custom css for file song_detail.html -- */
+
+/* -- embed-responsive-item -- */
+#img-obj-28888 {
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+/* -- firebase-field font-weight-bold mb-1 -- */
+#obj-40027 {
+	font-size: 21px;
+}
+
