@@ -1,8 +1,18 @@
 /* -- custom css for file song_detail.html -- */
 
+/* -- block custom-block text-center mt-3 -- */
+#obj-11537 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
 /* -- embed-responsive-item -- */
-#img-obj-28888 {
-	background-size:cover;
+#img-obj-49720 {
+	background-size:contain;
 	background-repeat:no-repeat;
 	background-position:center;
 }
@@ -10,5 +20,59 @@
 /* -- firebase-field font-weight-bold mb-1 -- */
 #obj-40027 {
 	font-size: 21px;
+}
+
+/* -- swiper-container swiper-demo swiper-container-initialized swiper-container-horizontal swiper-container-ios -- */
+#obj-35082 {
+	height: 300px;
+	 margin-top: -15px;
+}
+
+/* -- swiper-slide swiper-slide-active -- */
+#obj-47800 {
+	width: 334px;
+}
+
+/* -- embed-responsive-item -- */
+#img-obj-65402 {
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+/* -- swiper-slide swiper-slide-next -- */
+#obj-11659 {
+	width: 334px;
+}
+
+/* -- embed-responsive-item -- */
+#img-obj-90309 {
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+/* -- swiper-slide -- */
+#obj-32094 {
+	width: 334px;
+}
+
+/* -- embed-responsive-item -- */
+#img-obj-66403 {
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+/* -- swiper-slide -- */
+#obj-44423 {
+	width: 334px;
+}
+
+/* -- embed-responsive-item -- */
+#img-obj-67482 {
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
 }
 

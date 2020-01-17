@@ -12,7 +12,7 @@ var mediaRoot='./db/dbassets/';
 var gtimeOut=6000;
 var gCrossDomain=false;
 var gAuthMode=0;
-var gHomeScreen="PGRpdiBjbGFzcz0icG9wdXAiPjxkaXYgY2xhc3M9ImJsb2NrIGN1c3RvbS1ibG9jayB0ZXh0LWNlbnRlciI+PGgyPk11c2ljQXBwPC9oMj48aDI+PC9oMj48cCBjbGFzcz0ibWItNSIgc3R5bGU9ImZvbnQtc2l6ZToxN3B4OyIgPjwvcD48L2Rpdj48L2Rpdj4=";
+var gHomeScreen="PGRpdiBjbGFzcz0icG9wdXAiPjxkaXYgY2xhc3M9ImJsb2NrIGN1c3RvbS1ibG9jayB0ZXh0LWNlbnRlciI+PGgyPkFtczFnbjwvaDI+PGgyPjwvaDI+PHAgY2xhc3M9Im1iLTUiIHN0eWxlPSJmb250LXNpemU6MTdweDsiID48L3A+PC9kaXY+PC9kaXY+";
 var dataTheme='.color-theme-white';
 var dataCustomColor=null;
 var dataFill=false;
@@ -27,8 +27,18 @@ var routes = [
 },
 {
     path: '/song_detail/',
-    url: './pages/song_detail.html?r=18708',
+    url: './pages/song_detail.html?r=30172',
     name: 'song_detail',
+},
+{
+    path: '/download_link/',
+    url: './pages/download_link.html?r=86916',
+    name: 'download_link',
+},
+{
+    path: '/feature/',
+    url: './pages/feature.html?r=54660',
+    name: 'feature',
 },
 {
     path: '(.*)',
@@ -39,12 +49,12 @@ var routes = [
 
 var app = new Framework7({
    "version": "1.0.0",
-    "id": "com.thorium.musicapp",
+    "id": "com.thorium.ams1gn",
     "root": "#app",
     "theme": "auto",
     "language": "en",
     "routes": routes,
-    "name": "MusicApp",
+    "name": "Ams1gn",
     "initOnDeviceReady": true,
     "init": true,
     "iosTranslucentBars": false,
@@ -471,7 +481,7 @@ function backToPreviousPage() {
 function ShowNotification (m) {
 	var notificationFull = app.notification.create({
 		icon: '<i class="f7-icons text-info">alert</i>',
-		title: 'MusicApp',
+		title: 'Ams1gn',
 		titleRightText: '',
 		subtitle: '',
 		text: m,

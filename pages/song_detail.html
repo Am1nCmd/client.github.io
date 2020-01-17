@@ -2,7 +2,7 @@
     <div id="navbar-o-51728" class="navbar">
       <div id="navbg-navbar-o-51728" class="navbar-bg">
       </div>
-      <div id="navbar-inner-o-84322" class="navbar-inner">
+      <div id="navbar-inner-o-84322" class="navbar-inner ">
         <div id="left-o-60172" class="left">
           <a id="o-44128" href="#" class="link back">
             <i class="icon icon-back">
@@ -11,7 +11,7 @@
             </span>
           </a>
         </div>
-        <div id="title-o-44466" class="title ">Song
+        <div id="title-o-44466" class="title">Details
         </div>
         <div id="right-o-64901" class="right">
         </div>
@@ -19,30 +19,95 @@
     </div>
     <div id="page-contents-o-97495" class="page-content">   
       <form id="obj-46300" name="obj-46300" class="form firebase-form no-hairlines">
-        <div id="obj-28888" class="firebase-field firebase-img img-zoom embed-responsive embed-responsive-1by1">
-          <div class="embed-responsive-item" id="img-obj-28888" data-firebase-field="song_cover" style="background-image:url({{song_cover}});">
-          </div>
-        </div>
         <div id="obj-11537" class="block custom-block text-center mt-3">
-          <div id="obj-40027" class="firebase-field font-weight-bold mb-1" data-firebase-field="song_name">
-            <p id="p-obj-40027" class="">{{song_name}}
-            </p> 
-          </div>
-          <div id="obj-84367" class="firebase-field mb-1" data-firebase-field="artist_name">
-            <p id="p-obj-84367" class="">{{artist_name}}
-            </p> 
-          </div>
-          <div id="obj-12626" class="firebase-field mb-4" data-firebase-field="song_year">
-            <p id="p-obj-12626" class="">{{song_year}}
-            </p> 
-          </div>
-          <div id="obj-45069" class="firebase-field firebase-audio">
-            <audio id="audio-obj-45069" controls="" class="audio" data-firebase-field="song_mp3" src="{{song_mp3}}">
-              <source>Your browser does not support the audio tag.
-              </audio>
+          <div id="obj-49720" class="firebase-field firebase-img embed-responsive embed-responsive-16by9 rounded">
+            <div class="embed-responsive-item" id="img-obj-49720" data-firebase-field="iconapp" style="background-image:url({{iconapp}});">
             </div>
           </div>
-        </form>
-      </div>
+          <div id="obj-40027" class="firebase-field font-weight-bold mb-1" data-firebase-field="nameapp">
+            <p id="p-obj-40027" class="">{{nameapp}}
+            </p> 
+          </div>
+          <div id="obj-84367" class="firebase-field mb-1 text-muted" data-firebase-field="version">
+            <p id="p-obj-84367" class="">{{version}}
+            </p> 
+          </div>
+          <a id="obj-25787" class="col button bg-primary button-raised button-round button-fill" data-transition="f7-push" href="/download_link/">
+            <i class="f7-icons">cloud_download
+            </i>Download
+          </a>
+          <h2 id="obj-67245" class="h2 text-left">Wha’s New&nbsp;
+          </h2>
+          <div id="obj-37313" class="firebase-field text-left" data-firebase-field="whatsnew">
+            <p id="p-obj-37313" class="">{{whatsnew}}
+            </p> 
+          </div>
+          <h2 id="obj-55537" class="h2 text-left">Screenshots<br>
+          </h2> 
+          <div id="obj-35082" class="swiper-container swiper-demo swiper-container-initialized swiper-container-horizontal swiper-container-ios" data-swiper_delay="999999999" data-swiper-type="bullets" data-swiper-direction="horizontal" data-swiper-effect="slide" data-swiper-slidesperview="auto" data-swiper-initialslide="1" data-swiper-spacebetween="0" data-swiper-loop="true" data-swiper-center="true" data-swiper-navigation="false" data-swiper-freemode="false" data-swiper-mousewheel="false" data-swiper-dynamicbullets="false" data-swiper-autoplay="true" data-swiper-delay="999999999">
+            <div id="obj-51632" class="swiper-pagination swiper-pagination-bullets swiper-pagination-clickable">
+              <span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1">1
+              </span>
+              <span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2">2
+              </span>
+              <span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3">3
+              </span>
+              <span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4">4
+              </span>
+            </div>      
+            <div id="obj-19545" class="swiper-wrapper">
+              <div id="obj-47800" class="swiper-slide swiper-slide-active">
+                <div id="obj-65402" class="firebase-field firebase-img img-zoom embed-responsive embed-responsive-4by3">
+                  <div class="embed-responsive-item" id="img-obj-65402" data-firebase-field="ss1" style="background-image:url({{ss1}});">
+                  </div>
+                </div>
+              </div>
+              <div id="obj-11659" class="swiper-slide swiper-slide-next">
+                <div id="obj-90309" class="firebase-field firebase-img img-zoom embed-responsive embed-responsive-4by3">
+                  <div class="embed-responsive-item" id="img-obj-90309" data-firebase-field="ss2" style="background-image:url({{ss2}});">
+                  </div>
+                </div>
+              </div>
+              <div id="obj-32094" class="swiper-slide">
+                <div id="obj-66403" class="firebase-field firebase-img img-zoom embed-responsive embed-responsive-4by3">
+                  <div class="embed-responsive-item" id="img-obj-66403" data-firebase-field="ss3" style="background-image:url({{ss3}});">
+                  </div>
+                </div>
+              </div>
+              <div id="obj-44423" class="swiper-slide">
+                <div id="obj-67482" class="firebase-field firebase-img embed-responsive embed-responsive-4by3">
+                  <div class="embed-responsive-item" id="img-obj-67482" data-firebase-field="ss4" style="background-image:url({{ss4}});">
+                  </div>
+                </div>
+              </div>
+            </div>    
+          </div>
+          <h2 id="obj-15522" class="h2 text-left">Description
+          </h2>
+          <div id="obj-41284" class="firebase-field text-left" data-firebase-field="diskripsi">
+            <p id="p-obj-41284" class="">{{diskripsi}}
+            </p> 
+          </div>
+          <h2 id="obj-13007" class="h2 text-left">Information
+          </h2>
+          <div id="obj-46089" class="firebase-field text-left" data-firebase-field="version">
+            <p id="p-obj-46089">{{version}}
+            </p> 
+          </div>
+          <div id="obj-96955" class="firebase-field text-left" data-firebase-field="devname">
+            <p id="p-obj-96955" class="">{{devname}}
+            </p> 
+          </div>
+          <div id="obj-20873" class="firebase-field text-left" data-firebase-field="size">
+            <p id="p-obj-20873" class="">{{size}}
+            </p> 
+          </div>
+          <div id="obj-55962" class="firebase-field text-left" data-firebase-field="lastupdate">
+            <p id="p-obj-55962" class="">{{lastupdate}}
+            </p> 
+          </div> 
+        </div>
+      </form>
     </div>
+  </div>
 

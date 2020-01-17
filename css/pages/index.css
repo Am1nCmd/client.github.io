@@ -1,7 +1,60 @@
 /* -- custom css for file index.html -- */
 
-/* -- page-content -- */
-#page-contents-o-40454 {
-	background-color: rgb(58, 58, 58);
+/* -- f7-icons -- */
+#obj-78382 {
+	color:rgb(255, 255, 255);
+	 background-color:rgba(0, 0, 0, 0);
+}
+
+/* -- f7-icons -- */
+#obj-75680 {
+	color:rgb(255, 255, 255);
+	 background-color:rgba(0, 0, 0, 0);
+}
+
+/* -- f7-icons -- */
+#obj-28224 {
+	color:rgb(255, 255, 255);
+	 background-color:rgba(0, 0, 0, 0);
+}
+
+/* -- fa f7-icons -- */
+#obj-86540 {
+	font-size: 25px;
+}
+
+/* -- title -- */
+#title-o-69432 {
+	left: 0px;
+}
+
+/* -- block custom-block -- */
+#obj-28862 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block custom-block block-text inset -- */
+#obj-90696 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- firebase-virtual-list -- */
+#obj-48087 {
+	margin-top: -13px;
+}
+
+/* -- firebase-virtual-list -- */
+#obj-53865 {
+	margin-top: -13px;
 }
 
