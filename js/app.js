@@ -27,17 +27,17 @@ var routes = [
 },
 {
     path: '/song_detail/',
-    url: './pages/song_detail.html?r=30172',
+    url: './pages/song_detail.html?r=91829',
     name: 'song_detail',
 },
 {
     path: '/download_link/',
-    url: './pages/download_link.html?r=86916',
+    url: './pages/download_link.html?r=63626',
     name: 'download_link',
 },
 {
     path: '/feature/',
-    url: './pages/feature.html?r=54660',
+    url: './pages/feature.html?r=39476',
     name: 'feature',
 },
 {
