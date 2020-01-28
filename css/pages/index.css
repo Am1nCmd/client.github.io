@@ -1,28 +1,5 @@
 /* -- custom css for file index.html -- */
 
-/* -- f7-icons -- */
-#obj-78382 {
-	color:rgb(255, 255, 255);
-	 background-color:rgba(0, 0, 0, 0);
-}
-
-/* -- f7-icons -- */
-#obj-75680 {
-	color:rgb(255, 255, 255);
-	 background-color:rgba(0, 0, 0, 0);
-}
-
-/* -- f7-icons -- */
-#obj-28224 {
-	color:rgb(255, 255, 255);
-	 background-color:rgba(0, 0, 0, 0);
-}
-
-/* -- fa f7-icons -- */
-#obj-86540 {
-	font-size: 25px;
-}
-
 /* -- title -- */
 #title-o-69432 {
 	left: 0px;
@@ -38,6 +15,31 @@
 	 border-bottom-color: transparent !important;
 }
 
+/* -- swiper-container swiper-demo swiper-container-initialized swiper-container-horizontal swiper-container-ios -- */
+#obj-16931 {
+	height: 300px;
+}
+
+/* -- swiper-slide swiper-slide-active -- */
+#obj-97305 {
+	width: 282px;
+}
+
+/* -- swiper-slide swiper-slide-next -- */
+#obj-49005 {
+	width: 282px;
+}
+
+/* -- swiper-slide -- */
+#obj-57280 {
+	width: 282px;
+}
+
+/* -- swiper-slide -- */
+#obj-49343 {
+	width: 282px;
+}
+
 /* -- block custom-block block-text inset -- */
 #obj-90696 {
 	border-top-width: 1px !important;
@@ -48,13 +50,144 @@
 	 border-bottom-color: transparent !important;
 }
 
-/* -- firebase-virtual-list -- */
-#obj-48087 {
-	margin-top: -13px;
+/* -- block custom-block text-center -- */
+#obj-45300 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
 }
 
-/* -- firebase-virtual-list -- */
-#obj-53865 {
-	margin-top: -13px;
+/* -- collection-item-image -- */
+#obj-38434 {
+	background-image:url(../../img/44769.png);
+}
+
+/* -- collection-item-image -- */
+#obj-51438 {
+	background-image:url(../../img/28357.png);
+}
+
+/* -- collection-item-image -- */
+#obj-56505 {
+	background-image:url(../../img/90214.png);
+}
+
+/* -- block custom-block block-text inset -- */
+#obj-95443 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block custom-block block-text inset -- */
+#obj-65193 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block custom-block block-text inset -- */
+#obj-60217 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block custom-block block-text inset -- */
+#obj-33637 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- h1 text-center -- */
+#obj-92181 {
+	color: rgb(253, 204, 101);
+	 font-family: Anton;
+}
+
+/* -- block custom-block -- */
+#obj-16328 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block custom-block -- */
+#obj-74889 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block custom-block m-3 -- */
+#obj-82014 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- h2 text-center text-muted m-0 -- */
+#obj-49386 {
+	font-family: Righteous;
+}
+
+/* -- h2 text-center text-muted m-0 -- */
+#obj-86132 {
+	font-family: Righteous;
+}
+
+/* -- h2 text-center text-muted m-0 -- */
+#obj-60609 {
+	font-family: Righteous;
+}
+
+/* -- h2 text-center text-muted m-0 -- */
+#obj-86405 {
+	font-family: Righteous;
+}
+
+/* -- block custom-block text-center m-0 -- */
+#obj-24073 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block custom-block block-text text-center text-muted m-0 inset medium-inset -- */
+#obj-44282 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
 }
 
