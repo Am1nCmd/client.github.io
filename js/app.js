@@ -27,7 +27,7 @@ var routes = [
 },
 {
     path: '/song_detail/',
-    url: './pages/song_detail.html?r=78156',
+    url: './pages/song_detail.html?r=64482',
     name: 'song_detail',
 },
 {

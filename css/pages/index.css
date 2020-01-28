@@ -1,10 +1,5 @@
 /* -- custom css for file index.html -- */
 
-/* -- title -- */
-#title-o-69432 {
-	left: 0px;
-}
-
 /* -- block custom-block -- */
 #obj-28862 {
 	border-top-width: 1px !important;
@@ -21,26 +16,26 @@
 }
 
 /* -- swiper-slide swiper-slide-active -- */
-#obj-97305 {
+#obj-30543 {
 	width: 284px;
 }
 
 /* -- swiper-slide swiper-slide-next -- */
-#obj-49005 {
+#obj-63306 {
 	width: 284px;
 }
 
 /* -- swiper-slide -- */
-#obj-57280 {
+#obj-67529 {
 	width: 284px;
 }
 
 /* -- swiper-slide -- */
-#obj-49343 {
+#obj-63644 {
 	width: 284px;
 }
 
-/* -- block custom-block block-text inset -- */
+/* -- block custom-block block-text inset medium-inset text-center -- */
 #obj-90696 {
 	border-top-width: 1px !important;
 	 border-top-style: dashed !important;
@@ -119,6 +114,7 @@
 #obj-92181 {
 	color: rgb(253, 204, 101);
 	 font-family: Anton;
+	 font-size: 31px;
 }
 
 /* -- block custom-block -- */
@@ -154,21 +150,25 @@
 /* -- h2 text-center m-0 -- */
 #obj-49386 {
 	font-family: Righteous;
+	 font-size: 17px;
 }
 
 /* -- h2 text-center m-0 -- */
 #obj-86132 {
 	font-family: Righteous;
+	 font-size: 16px;
 }
 
 /* -- h2 text-center m-0 -- */
 #obj-60609 {
 	font-family: Righteous;
+	 font-size: 16px;
 }
 
 /* -- h2 text-center m-0 -- */
 #obj-86405 {
 	font-family: Righteous;
+	 font-size: 16px;
 }
 
 /* -- block custom-block text-center m-0 -- */
@@ -183,6 +183,16 @@
 
 /* -- block custom-block block-text text-center text-muted m-0 inset medium-inset -- */
 #obj-44282 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block custom-block block-text -- */
+#obj-56339 {
 	border-top-width: 1px !important;
 	 border-top-style: dashed !important;
 	 border-top-color: transparent !important;

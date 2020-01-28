@@ -20,16 +20,28 @@
 /* -- firebase-field font-weight-bold mb-1 -- */
 #obj-40027 {
 	font-size: 21px;
+	 font-family: Anton;
 }
 
 /* -- h2 text-left -- */
 #obj-83330 {
 	margin-bottom: 0px;
+	 font-family: Righteous;
 }
 
 /* -- list accordion-list inset -- */
 #obj-34205 {
 	margin: 0px 32px 32px;
+}
+
+/* -- h2 text-left -- */
+#obj-67245 {
+	font-family: Righteous;
+}
+
+/* -- h2 text-left -- */
+#obj-55537 {
+	font-family: Righteous;
 }
 
 /* -- swiper-container swiper-demo swiper-container-initialized swiper-container-horizontal swiper-container-ios -- */
@@ -39,50 +51,65 @@
 }
 
 /* -- swiper-slide swiper-slide-active -- */
-#obj-84221 {
+#obj-26291 {
 	width: 334px;
 }
 
 /* -- embed-responsive-item -- */
 #img-obj-65402 {
-	background-size:cover;
+	background-size:contain;
 	background-repeat:no-repeat;
 	background-position:center;
 }
 
 /* -- swiper-slide swiper-slide-next -- */
-#obj-60239 {
+#obj-62938 {
 	width: 334px;
 }
 
 /* -- embed-responsive-item -- */
 #img-obj-90309 {
-	background-size:cover;
+	background-size:contain;
 	background-repeat:no-repeat;
 	background-position:center;
 }
 
 /* -- swiper-slide -- */
-#obj-76621 {
+#obj-63107 {
 	width: 334px;
 }
 
 /* -- embed-responsive-item -- */
 #img-obj-66403 {
-	background-size:cover;
+	background-size:contain;
 	background-repeat:no-repeat;
 	background-position:center;
 }
 
 /* -- swiper-slide -- */
-#obj-93003 {
+#obj-59223 {
 	width: 334px;
 }
 
 /* -- embed-responsive-item -- */
 #img-obj-67482 {
-	background-size:cover;
+	background-size:contain;
 	background-repeat:no-repeat;
 	background-position:center;
+}
+
+/* -- h2 text-left -- */
+#obj-15522 {
+	font-family: Righteous;
+}
+
+/* -- h2 text-left -- */
+#obj-13007 {
+	font-family: Righteous;
+}
+
+/* -- block custom-block block-text inset medium-inset text-muted m-0 -- */
+#obj-44830 {
+	font-size: 11px;
 }
 
