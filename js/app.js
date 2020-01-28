@@ -12,7 +12,7 @@ var mediaRoot='./db/dbassets/';
 var gtimeOut=6000;
 var gCrossDomain=false;
 var gAuthMode=0;
-var gHomeScreen="PGRpdiBjbGFzcz0icG9wdXAiPjxkaXYgY2xhc3M9ImJsb2NrIGN1c3RvbS1ibG9jayB0ZXh0LWNlbnRlciI+PGgyPkFtczFnbjwvaDI+PGgyPjwvaDI+PHAgY2xhc3M9Im1iLTUiIHN0eWxlPSJmb250LXNpemU6MTdweDsiID48L3A+PC9kaXY+PC9kaXY+";
+var gHomeScreen="PGRpdiBjbGFzcz0icG9wdXAiPjxkaXYgY2xhc3M9ImJsb2NrIGN1c3RvbS1ibG9jayB0ZXh0LWNlbnRlciI+PGgyPkFtczFnbjwvaDI+PGltZyBzcmM9Ii4vaW1nL2FwcGxlLXRvdWNoLWljb24tMTIweDEyMC5wbmciPjwvaW1nPjxoMj48L2gyPjxwIGNsYXNzPSJtYi01IiBzdHlsZT0iZm9udC1zaXplOjE3cHg7IiA+PC9wPjwvZGl2PjwvZGl2Pg==";
 var dataTheme='.color-theme-white';
 var dataCustomColor=null;
 var dataFill=false;
@@ -27,7 +27,7 @@ var routes = [
 },
 {
     path: '/song_detail/',
-    url: './pages/song_detail.html?r=64482',
+    url: './pages/song_detail.html?r=69668',
     name: 'song_detail',
 },
 {
